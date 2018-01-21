@@ -1,8 +1,6 @@
 route_id,route_short_name,route_long_name,route_desc,route_type, route_url, route_color
-metro_green_route, grn, Green Line, Route travels from UTRGV to McAllen Public Library to Central Station, 3, , green
 
-
-
-
-
-A,17,Mission,"The ""A"" route travels from lower Mission to Downtown.",3
+metro_green_route, grn, Green Line, "Route travels from UTRGV to McAllen Public Library to Central Station", 3, , green
+metro_blue_route, blu, Blue Line, "Route travels from Port Isabel to Brownsville SPI Airport to La Plaza", 3, , blue
+metro_red_route, rd, Red Line, "Route travels from La Plaza to Harlingen Station to RGV Outlets to Central Station", 3, , red
+metro_red_two_route, rdt, Red Line Two, "Route travels from Central Station to RGV Outlets to Harlingen Station to La Plaza", 3, , redt
