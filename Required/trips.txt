@@ -1,9 +1,9 @@
-route_id,service_id,trip_id,trip_headsign,block_id
-metro_green_route, all, GRN1,UTRGV,0
-metro_green_route, all, GRN2,CENTRAL STATION,1
-metro_blue_route, all, BLU1, LA PLAZA,0
-metro_blue_route, all, BLU2, PORT ISABEL,1 
-metro_red_route, all, RED1, CENTRAL STATION,0
-metro_red_route, all, RED2, LA PLAZA,1
-metro_red_two_route,all, RET1, LA PLAZA,0
-metro_red_two_route, all, RET2, CENTRAL STATION,1
+route_id,service_id,trip_id
+metro_green_route, All, GRN1
+metro_green_route, All, GRN2
+metro_blue_route, All, BLU1
+metro_blue_route, All, BLU2 
+metro_redA_route, All, REDA1
+metro_redA_route, All, REDA2
+metro_redB_route, All, REDB1
+metro_redB_route, All, REDB2

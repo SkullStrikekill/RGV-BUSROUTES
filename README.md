@@ -8,3 +8,13 @@ Google GTFS Specification Page: https://developers.google.com/transit/gtfs/refer
 Google GTFS Testing Page: https://developers.google.com/transit/gtfs/guides/tools
 Google GTFS Publishing Page: https://support.google.com/transitpartners/answer/1111577
 
+Checked the following:
+agency.txt
+calendar.txt
+routes.txt
+trips.txt
+stops.txt
+stop_times.txt
+
+Improvment suggestions:
+Consider updating "stop_desc" in "stops.txt" to make them more useful.
