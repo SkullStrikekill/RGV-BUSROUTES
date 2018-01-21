@@ -15,6 +15,7 @@ routes.txt
 trips.txt
 stops.txt
 stop_times.txt
+shape.txt
 
 Improvment suggestions:
 Consider updating "stop_desc" in "stops.txt" to make them more useful.
