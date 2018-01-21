@@ -1,0 +1,8 @@
+route_id,route_short_name,route_long_name,route_desc,route_type, route_url, route_color
+metro_green_route, grn, Green Line, Route travels from UTRGV to McAllen Public Library to Central Station, 3, , green
+
+
+
+
+
+A,17,Mission,"The ""A"" route travels from lower Mission to Downtown.",3
