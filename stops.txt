@@ -1,0 +1,9 @@
+//stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station
+CS,1501 U.S. 83 Business ,At the corner of Austin & S. 15th St.,-98.236108,26.2035563,,,
+ML,4001 N 23rd St,,-98.241617,26.2417434,,,
+UT,1201 W University Dr,located on the intersection of W. University Dr. and 4th St,-98.1749681,26.3045233,,,
+PI,,The stop is located at the northwest corner of the intersection.,37.75713,-122.418982,,,
+AP,Mission St. & 18th St.,The stop is located 25 feet west of 18th St.,37.761829,-122.419382,,,
+LP,Mission St. & 15th St.,The stop is located 10 feet north of Mission St.,37.766629,-122.419782,,,
+HA,215 E Monroe Ave,,-97.6939148,26.1938077,,,S8
+RO,24th St. Mission Station,,-97.9543115,26.1588727,http://www.bart.gov/stations/stationguide/stationoverview_24st.asp,1,
