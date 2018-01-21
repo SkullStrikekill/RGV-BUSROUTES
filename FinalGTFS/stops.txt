@@ -1,0 +1,9 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+CS,Central Station,Located at the corner of Austin & South 15th Street,-98.236108,26.2035563
+ML,McAllen Public Library,Located at the McAllen Public Library,-98.241617,26.2417434
+UT,UTRGV,Located on the intersection of W. University Dr. and 4th St,-98.1749681,26.3045233
+PI,Port Isabel,Located in Port Isabel,-97.2277775,26.0745089
+AP,Brownsville/SPI Intl. Airport,Located at the Brownsville / South Padre Island International Airport,-97.4320782,25.9063408
+LP,La Plaza at Brownsville,Located at the La Plaza bus station in Brownsville,-97.4939834,25.9007191
+HA,Harlingen VTC Station,Located at the VTC Station in Harlingen,-97.6939148,26.1938077
+RO,RGV Premium Outlets,Located at the RGV Premium Outlets,-97.9543115,26.1588727
