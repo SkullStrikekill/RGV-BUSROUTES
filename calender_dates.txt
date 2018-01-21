@@ -1,0 +1,8 @@
+service_id,date,exception_type
+all,20180101,2
+all,20180119,1
+all,20180528,2
+all,20180704,1
+all,20180803,2
+all,20181008,1
+all,201811
