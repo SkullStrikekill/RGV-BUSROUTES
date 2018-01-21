@@ -1,0 +1,9 @@
+//stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station
+CS,1501 U.S. 83 Business ,At the corner of Austin & S. 15th St.,-98.236108,26.2035563,,,
+ML,4001 N 23rd St,,-98.241617,26.2417434,,,
+UT,1201 W University Dr,located on the intersection of W. University Dr. and 4th St,-98.1749681,26.3045233,,,
+PI,1748 TX-100,,-97.2277775,26.0745089,,,
+AP,700 Amelia Earhart Dr,,-97.4320782,25.9063408,,,
+LP,755 International Blvd.,,-97.4939834,25.9007191,,,
+HA,215 E Monroe Ave,,-97.6939148,26.1938077,,,S8
+RO,5001 US-83,,-97.9543115,26.1588727,http://rgvmetroconnect.com/wp-content/uploads/2017/05/Route-NEW.pdf,1,
