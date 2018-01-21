@@ -1,2 +1,2 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-ALL,1,1,1,1,1,1,1,20060701,20060731
+all,1,1,1,1,1,1,1,20060701,20060731

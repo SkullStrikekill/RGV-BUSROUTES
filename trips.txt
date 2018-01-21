@@ -1,4 +1,9 @@
 route_id,service_id,trip_id,trip_headsign,block_id
 metro_green_route, all, GRN1,NORTHBOUND,1
 metro_green_route, all, GRN2,SOUTHBOUND,2
-
+metro_blue_route, all, BLU1, SOUTHWESTBOUND,1
+metro_blue_route, all, BLU2, NORTHEASTBOUND,2 
+metro_red_route, all, RED1, NORTHWESTBOUND,1
+metro_red_route, all, RED2, SOUTHEASTBOUND,2
+metro_red_two_route,all, RET1, WESTBOUND,1
+metro_red_two_route, all, RET2, EASTBOUND,2
