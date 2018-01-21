@@ -19,3 +19,12 @@ shape.txt
 
 Improvment suggestions:
 Consider updating "stop_desc" in "stops.txt" to make them more useful.
+
+In order to run validation tests with the Google Python validator, you will use these scripts: 
+python feedvalidator.py <File Path>
+python schedule_viewer.py --key <Google API Key> --feed_filename <File Path>
+
+_Perform the following steps:_
+`cd transitfeed-master` to navigate to the appropriate folder
+`python feedvalidator.py FinalGTFS` to use the Google Python validator
+`python schedule_viewer.py --key <Google API Key> --feed_filename FinalGTFS` to plot the GTFS file on Google Maps using the schedule viewer
