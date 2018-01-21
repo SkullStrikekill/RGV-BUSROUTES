@@ -3,7 +3,7 @@ metro_green_route, all, GRN1,UTRGV,0
 metro_green_route, all, GRN2,CENTRAL STATION,1
 metro_blue_route, all, BLU1, LA PLAZA,0
 metro_blue_route, all, BLU2, PORT ISABEL,1 
-metro_red_route, all, RED1, NORTHWESTBOUND,0
-metro_red_route, all, RED2, SOUTHEASTBOUND,1
-metro_red_two_route,all, RET1, WESTBOUND,0
-metro_red_two_route, all, RET2, EASTBOUND,1
+metro_red_route, all, RED1, CENTRAL STATION,0
+metro_red_route, all, RED2, LA PLAZA,1
+metro_red_two_route,all, RET1, LA PLAZA,0
+metro_red_two_route, all, RET2, CENTRAL STATION,1
