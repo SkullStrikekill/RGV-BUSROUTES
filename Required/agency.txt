@@ -1,0 +1,6 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+MM,Metro McAllen,http://www.mcallen.net/metro/default.aspx,America/Chicago,(956) 681-3510,en
+BM,Brownsville Metro,https://www.cob.us/281/Brownsville-Metro,America/Chicago,(956) 548-6074,en
+IM,Island Metro,http://www.myspi.org/department/index.php?structureid=34,America/Chicago,(956) 761-8178,en
+VM,Valley Metro,http://www.lrgvdc.org/valleymetro/,America/Chicago,(800) 574-8322,en
+RM, RGV Metro Connect, http://rgvmetroconnect.com/,America/Chicago,(956) 681-3550, en
