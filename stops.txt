@@ -1,4 +1,4 @@
-//stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station
 CS,1501 U.S. 83 Business ,At the corner of Austin & S. 15th St.,-98.236108,26.2035563,,,
 ML,4001 N 23rd St,,-98.241617,26.2417434,,,
 UT,1201 W University Dr,located on the intersection of W. University Dr. and 4th St,-98.1749681,26.3045233,,,
