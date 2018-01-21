@@ -1,9 +1,0 @@
-route_id,service_id,trip_id
-metro_green_route, All, GRN1
-metro_green_route, All, GRN2
-metro_blue_route, All, BLU1
-metro_blue_route, All, BLU2 
-metro_redA_route, All, REDA1
-metro_redA_route, All, REDA2
-metro_redB_route, All, REDB1
-metro_redB_route, All, REDB2

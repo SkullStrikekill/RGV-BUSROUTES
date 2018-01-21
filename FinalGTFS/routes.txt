@@ -1,5 +1,5 @@
-route_id,agency_id, route_short_name,route_long_name,route_desc,route_type,route_color
-metro_green_route,RM, grn, Green Line, "Route travels from UTRGV to McAllen Public Library to Central Station", 3, 00FF00
-metro_blue_route, RM, blu, Blue Line, "Route travels from Port Isabel to Brownsville SPI Airport to La Plaza", 3, 0000FF
-metro_redA_route,RM, rda, Red Line A, "Route travels from La Plaza to Harlingen Station to RGV Outlets to Central Station", 3, FF0000
-metro_redB_route,RM, rdb, Red Line B, "Route travels from Central Station to RGV Outlets to Harlingen Station to La Plaza", 3, FF0000
+route_id,agency_id, route_short_name,route_long_name,route_desc,route_type,route_color, route_text_color
+metro_green_route,RM, grn, Green Line, "Route travels from UTRGV to McAllen Public Library to Central Station", 3, 00FF00, 000000
+metro_blue_route, RM, blu, Blue Line, "Route travels from Port Isabel to Brownsville SPI Airport to La Plaza", 3, 0000FF, FFFFFF
+metro_redA_route,RM, rda, Red Line A, "Route travels from La Plaza to Harlingen Station to RGV Outlets to Central Station", 3, FF0000, 000000
+metro_redB_route,RM, rdb, Red Line B, "Route travels from Central Station to RGV Outlets to Harlingen Station to La Plaza", 3, FF0000, 000000
